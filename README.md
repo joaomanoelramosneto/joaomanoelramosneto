@@ -6,7 +6,6 @@ Meu Nome é Joao Manoel Ramos Neto
 - Ainda estou me desenvolvendo nesse tipo de linguagem (JavaScript), mas espero que daqui á um tempo eu já tenha aprendido tudo sobre essa linguagem
 - Estou utilizando essa área para poder compartilhar projetos meus e "conversar" sobre JavaScript e etc
 - Atualmente eu estou estudano no Colégio Helena Viana Sundin e moro em Paranaguá- PR
-- 
 
   ### Para entrar em contato:
   - ### joao.ramos.neto@escola.pr.gov.br
